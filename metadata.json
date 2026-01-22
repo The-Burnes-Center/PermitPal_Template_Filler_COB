@@ -1,0 +1,5 @@
+{
+  "name": "Template Filler v2.9",
+  "description": "using vertex ai sdk for url search, googlegenai sdk for file upload\nfile upload seems consistent at 0.5 temp",
+  "requestFramePermissions": []
+}
